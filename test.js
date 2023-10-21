@@ -30,4 +30,3 @@ while (input !== "quit") {
 }
 
 console.log("END");
-console.log("test");
